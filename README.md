@@ -8,11 +8,11 @@
 
 ## My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ICEPrey&count_private=true&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammedADev&count_private=true&show_icons=true&theme=tokyonight)
 
 ## Top Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ICEPrey&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedADev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
-⭐️ From [ICEPrey](https://github.com/ICEPrey)
+⭐️ From [ICEPrey](https://github.com/MohammedADev)
